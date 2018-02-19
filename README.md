@@ -1,4 +1,4 @@
-# Unofficial Chatwork plugin for [Franz](http://meetfranz.com/)
+# [WIP]Unofficial Chatwork plugin for [Franz](http://meetfranz.com/)
 
 The minimum required version of Franz to run custom integrations is 5.0.0. You can download the latest version of Franz [here](http://meetfranz.com/#download).
 
