@@ -1,0 +1,15 @@
+{
+  "id": "chatwork-unofficial",
+  "name": "chatwork-unofficial",
+  "version": "0.0.1",
+  "description": "chatwork-unofficial",
+  "main": "index.js",
+  "author": "gin0606",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.chatwork.com",
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": true
+  }
+}
